@@ -3,17 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "quartoCourseBlog"
+  title: "Between the moors and the sea"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/CrumpLab/quartoCourseBlog
+        href: https://github.com/timbindingPCC/BetweenMoorsSea
       - icon: twitter
         href: https://twitter.com/MattCrumpLab
 format:
   html:
-    theme: minty
+    theme: yeti
     css: styles.css
 
 editor: visual
