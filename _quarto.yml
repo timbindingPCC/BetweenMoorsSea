@@ -4,13 +4,16 @@ project:
 
 website:
   title: "Between the moors and the sea"
+  description: "A digital garden of sorts. Personal musings and ruminations"
   navbar:
     right:
-      - about.qmd
+      - text: Blog
+        href: blog.qmd
       - icon: github
         href: https://github.com/timbindingPCC/BetweenMoorsSea
-      - icon: twitter
-        href: https://twitter.com/MattCrumpLab
+      - text: Archive
+        href: archive.qmd
+  cookie-consent: true
 format:
   html:
     theme: yeti

@@ -1,8 +1,13 @@
 ---
-title: "Example assignment"
-author: "Matt Crump"
-date: "2022-10-21"
-categories: [goals,general]
+title: 'This is a dummy blog posts'
+date: '2023-04-28'
+categories: ['123', 'Second Tag']
+description: 'This is a test post. In this post, I try out different functionalities'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
 ---
 
 ### Introspect on your own mental imagery
